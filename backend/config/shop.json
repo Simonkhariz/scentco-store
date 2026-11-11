@@ -1,0 +1,96 @@
+{
+  "key": "scentco",
+  "name": "SCENT.CO",
+  "kind": "online perfume store",
+  "title": "SCENT.CO | Find the Scent That Feels Like You",
+  "description": "Perfumes, perfume oils and body mists for her and for him, chosen by scent family and delivered across Nigeria.",
+  "tagline": "Perfumes, oils and mists you will be remembered by, delivered across Nigeria.",
+  "hero": {
+    "title": "FIND THE SCENT THAT FEELS LIKE YOU",
+    "subtitle": "Perfumes, perfume oils and body mists for every mood and every budget. Choose by scent family and have it delivered to your door.",
+    "cta": "Shop Now",
+    "image": "/images/hero/hero.webp",
+    "cutout": false
+  },
+  "theme": {
+    "accent": "#3B1F3F",
+    "accentHover": "#52305A",
+    "accentInk": "#ffffff",
+    "surface": "#F3EFF4",
+    "card": "#F4EFEA",
+    "hero": "#F4EEE8"
+  },
+  "option1": {
+    "label": "Size",
+    "plural": "Sizes",
+    "none": "Standard",
+    "choices": [
+      "10ml",
+      "30ml",
+      "50ml",
+      "100ml",
+      "200ml"
+    ],
+    "help": ""
+  },
+  "option2": {
+    "label": "Type",
+    "plural": "Types",
+    "none": "Default",
+    "swatch": false,
+    "placeholder": "e.g. Eau de Parfum"
+  },
+  "style": {
+    "enabled": true,
+    "label": "Scent family",
+    "plural": "Scent families",
+    "short": "Scent",
+    "browseTitle": "BROWSE BY SCENT FAMILY",
+    "values": [
+      "Woody",
+      "Floral",
+      "Fresh",
+      "Oriental",
+      "Fruity"
+    ],
+    "images": {
+      "woody": "/images/styles/woody.webp",
+      "floral": "/images/styles/floral.webp",
+      "fresh": "/images/styles/fresh.webp",
+      "oriental": "/images/styles/oriental.webp",
+      "fruity": "/images/styles/fruity.webp"
+    }
+  },
+  "specs": {
+    "label": "Fragrance notes",
+    "suggested": [
+      "Top notes",
+      "Heart notes",
+      "Base notes",
+      "Lasts"
+    ]
+  },
+  "features": {
+    "warranty": false,
+    "heavyDelivery": false,
+    "ageCheck": false
+  },
+  "ageCheck": {
+    "minAge": 18,
+    "categories": []
+  },
+  "wording": {
+    "featured": "FEATURED",
+    "newArrivals": "NEW ARRIVALS",
+    "topSelling": "TOP SELLING",
+    "categoriesEyebrow": "Our Collections",
+    "categoriesTitle": "EXPLORE BY CATEGORY",
+    "categoriesCta": "Browse All Collections",
+    "emptyCart": "Explore our collections and find the scent that feels like you.",
+    "contactIntro": "Questions about an order, a scent or a return? Reach us using the details below.",
+    "searchExampleShort": "oud",
+    "searchExampleLong": "woody perfume for men",
+    "descriptionHint": "How it smells, when to wear it, how long it lasts…",
+    "categoryHint": "/category?cat=for-her"
+  }
+}

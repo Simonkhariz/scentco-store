@@ -1,0 +1,1359 @@
+{
+  "settings": {
+    "store_name": "SCENT.CO",
+    "store_contact_email": "hello@scentco.example",
+    "store_contact_phone": "+2348000000101",
+    "store_origin_address": "14 Admiralty Way, Lekki Phase 1",
+    "store_origin_city": "Lagos",
+    "store_origin_state": "Lagos",
+    "default_product_rating": "4.6",
+    "storefront_brands": ""
+  },
+  "zones": [
+    {
+      "name": "Lagos",
+      "states": [
+        "Lagos"
+      ],
+      "fee": 2500,
+      "estimated_days": "1 to 2 days",
+      "items_included": 3,
+      "extra_item_fee": 300,
+      "heavy_item_fee": 0
+    },
+    {
+      "name": "South West",
+      "states": [
+        "Ogun",
+        "Oyo",
+        "Osun",
+        "Ondo",
+        "Ekiti"
+      ],
+      "fee": 3500,
+      "estimated_days": "2 to 3 days",
+      "items_included": 3,
+      "extra_item_fee": 400,
+      "heavy_item_fee": 0
+    },
+    {
+      "name": "Abuja and Port Harcourt",
+      "states": [
+        "FCT",
+        "Rivers"
+      ],
+      "fee": 4500,
+      "estimated_days": "2 to 4 days",
+      "items_included": 3,
+      "extra_item_fee": 500,
+      "heavy_item_fee": 0
+    },
+    {
+      "name": "Rest of Nigeria",
+      "states": [
+        "*"
+      ],
+      "fee": 6000,
+      "estimated_days": "3 to 6 days",
+      "items_included": 3,
+      "extra_item_fee": 600,
+      "heavy_item_fee": 0
+    }
+  ],
+  "promotions": [
+    {
+      "code": "WELCOME10",
+      "type": "percentage",
+      "value": 10,
+      "min_order": 0,
+      "max_discount": 10000,
+      "description": "10% off your first order",
+      "show_on_homepage": true
+    },
+    {
+      "code": "SAVE5K",
+      "type": "fixed",
+      "value": 5000,
+      "min_order": 50000,
+      "max_discount": null,
+      "description": "₦5,000 off orders from ₦50,000",
+      "show_on_homepage": false
+    },
+    {
+      "code": "GIFTBOX15",
+      "type": "percentage",
+      "value": 15,
+      "min_order": 40000,
+      "max_discount": 12000,
+      "description": "15% off orders from ₦40,000, handy for gifts",
+      "show_on_homepage": false
+    }
+  ],
+  "categories": [
+    {
+      "name": "For Her",
+      "slug": "for-her",
+      "description": "Florals, fruits and warm ambers made for women.",
+      "image": "cat-for-her.webp"
+    },
+    {
+      "name": "For Him",
+      "slug": "for-him",
+      "description": "Woods, leather and fresh scents for men.",
+      "image": "cat-for-him.webp"
+    },
+    {
+      "name": "Unisex",
+      "slug": "unisex",
+      "description": "Scents anyone can wear, whatever the mood.",
+      "image": "cat-unisex.webp"
+    },
+    {
+      "name": "Perfume Oils",
+      "slug": "perfume-oils",
+      "description": "Small roll-on bottles that sit close to the skin and last.",
+      "image": "cat-perfume-oils.webp"
+    },
+    {
+      "name": "Body Mists",
+      "slug": "body-mists",
+      "description": "Light 200ml sprays for every day and after the gym.",
+      "image": "cat-body-mists.webp"
+    },
+    {
+      "name": "Gift Sets",
+      "slug": "gift-sets",
+      "description": "Boxed sets that are ready to give, no wrapping needed.",
+      "image": "cat-gift-sets.webp"
+    }
+  ],
+  "banners": [
+    {
+      "title": "FIND YOUR SIGNATURE SCENT",
+      "subtitle": "Perfumes for her, for him and for everyone, with free sniff advice on WhatsApp.",
+      "cta_text": "Shop now",
+      "cta_url": "/category?cat=for-her",
+      "image": "banner-1.webp"
+    },
+    {
+      "title": "OILS THAT LAST ALL DAY",
+      "subtitle": "Roll-on perfume oils from ₦6,000. Small bottle, big staying power.",
+      "cta_text": "See the oils",
+      "cta_url": "/category?cat=perfume-oils",
+      "image": "banner-2.webp"
+    },
+    {
+      "title": "GIFT SETS READY TO GIVE",
+      "subtitle": "Boxed sets for birthdays and anniversaries. Use GIFTBOX15 on orders from ₦40,000.",
+      "cta_text": "Shop gift sets",
+      "cta_url": "/category?cat=gift-sets",
+      "image": "banner-3.webp"
+    }
+  ],
+  "products": [
+    {
+      "name": "Rose Noir Nuit",
+      "slug": "rose-noir-nuit",
+      "category": "for-her",
+      "description": "A deep rose scent with a dark, soft base. It is a favourite for dinners and weddings. Choose the lighter toilette or the stronger parfum.",
+      "price": 22000,
+      "original_price": null,
+      "style": "Floral",
+      "featured": true,
+      "flash_deal": false,
+      "rating_start": 4.8,
+      "units_sold": 152,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Top notes",
+          "value": "Pink pepper, lychee"
+        },
+        {
+          "name": "Heart notes",
+          "value": "Damask rose, peony"
+        },
+        {
+          "name": "Base notes",
+          "value": "Patchouli, musk"
+        },
+        {
+          "name": "Lasts",
+          "value": "6 to 8 hours"
+        },
+        {
+          "name": "Best for",
+          "value": "Evenings and occasions"
+        }
+      ],
+      "images": [
+        "p-rose-noir-nuit-1.webp",
+        "p-rose-noir-nuit-2.webp"
+      ],
+      "variants": [
+        {
+          "option1": "50ml",
+          "option2": "Eau de Toilette",
+          "hex": "#000000",
+          "price": null,
+          "stock": 18
+        },
+        {
+          "option1": "50ml",
+          "option2": "Eau de Parfum",
+          "hex": "#000000",
+          "price": 28000,
+          "stock": 14
+        },
+        {
+          "option1": "100ml",
+          "option2": "Eau de Toilette",
+          "hex": "#000000",
+          "price": 38000,
+          "stock": 9
+        },
+        {
+          "option1": "100ml",
+          "option2": "Eau de Parfum",
+          "hex": "#000000",
+          "price": 48000,
+          "stock": 3
+        }
+      ]
+    },
+    {
+      "name": "Jasmine Morning",
+      "slug": "jasmine-morning",
+      "category": "for-her",
+      "description": "A clean jasmine with a little green tea. Easy to wear to work and light enough for hot afternoons.",
+      "price": 15000,
+      "original_price": 18000,
+      "style": "Floral",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 60,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Top notes",
+          "value": "Green tea, lemon"
+        },
+        {
+          "name": "Heart notes",
+          "value": "Jasmine, lily of the valley"
+        },
+        {
+          "name": "Base notes",
+          "value": "White musk"
+        },
+        {
+          "name": "Lasts",
+          "value": "4 to 5 hours"
+        },
+        {
+          "name": "Best for",
+          "value": "Work and daytime"
+        }
+      ],
+      "images": [
+        "p-jasmine-morning-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "30ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 30
+        },
+        {
+          "option1": "50ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": 24000,
+          "stock": 22
+        },
+        {
+          "option1": "100ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": 40000,
+          "stock": 11
+        }
+      ]
+    },
+    {
+      "name": "Pink Mango Bloom",
+      "slug": "pink-mango-bloom",
+      "category": "for-her",
+      "description": "Ripe mango and pink grapefruit over soft flowers. A sweet, bright scent that people ask about.",
+      "price": 26000,
+      "original_price": 32000,
+      "style": "Fruity",
+      "featured": true,
+      "flash_deal": true,
+      "rating_start": 4.6,
+      "units_sold": 98,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Top notes",
+          "value": "Mango, pink grapefruit"
+        },
+        {
+          "name": "Heart notes",
+          "value": "Freesia, peach blossom"
+        },
+        {
+          "name": "Base notes",
+          "value": "Sandalwood, vanilla"
+        },
+        {
+          "name": "Lasts",
+          "value": "5 to 7 hours"
+        },
+        {
+          "name": "Best for",
+          "value": "Brunch and weekends"
+        }
+      ],
+      "images": [
+        "p-pink-mango-bloom-1.webp",
+        "p-pink-mango-bloom-2.webp"
+      ],
+      "variants": [
+        {
+          "option1": "50ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 26
+        },
+        {
+          "option1": "100ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": 42000,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "name": "Amber Velvet",
+      "slug": "amber-velvet",
+      "category": "for-her",
+      "description": "Warm amber with vanilla and a hint of spice. It is soft on the skin and gets stronger as the evening goes on.",
+      "price": 17000,
+      "original_price": null,
+      "style": "Oriental",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 41,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Top notes",
+          "value": "Cardamom, orange"
+        },
+        {
+          "name": "Heart notes",
+          "value": "Amber, orchid"
+        },
+        {
+          "name": "Base notes",
+          "value": "Vanilla, tonka bean"
+        },
+        {
+          "name": "Lasts",
+          "value": "7 to 9 hours"
+        },
+        {
+          "name": "Best for",
+          "value": "Cool evenings"
+        }
+      ],
+      "images": [
+        "p-amber-velvet-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "30ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 20
+        },
+        {
+          "option1": "50ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": 29000,
+          "stock": 17
+        },
+        {
+          "option1": "100ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": 52000,
+          "stock": 8
+        }
+      ]
+    },
+    {
+      "name": "Dark Oud Reserve",
+      "slug": "dark-oud-reserve",
+      "category": "for-him",
+      "description": "A smoky oud softened with leather and a touch of spice. Our best seller for men and a strong choice for special nights.",
+      "price": 32000,
+      "original_price": null,
+      "style": "Woody",
+      "featured": true,
+      "flash_deal": false,
+      "rating_start": 4.9,
+      "units_sold": 175,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Top notes",
+          "value": "Bergamot, pink pepper"
+        },
+        {
+          "name": "Heart notes",
+          "value": "Oud, leather"
+        },
+        {
+          "name": "Base notes",
+          "value": "Amber, cedar"
+        },
+        {
+          "name": "Lasts",
+          "value": "8 to 10 hours"
+        },
+        {
+          "name": "Best for",
+          "value": "Evenings and occasions"
+        }
+      ],
+      "images": [
+        "p-dark-oud-reserve-1.webp",
+        "p-dark-oud-reserve-2.webp"
+      ],
+      "variants": [
+        {
+          "option1": "50ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 24
+        },
+        {
+          "option1": "100ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": 55000,
+          "stock": 12
+        }
+      ]
+    },
+    {
+      "name": "Cedar and Smoke",
+      "slug": "cedar-and-smoke",
+      "category": "for-him",
+      "description": "Dry cedar wood with a little campfire smoke. The toilette is lighter for the day and the parfum is richer for the night.",
+      "price": 24000,
+      "original_price": null,
+      "style": "Woody",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": 4.5,
+      "units_sold": 88,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Top notes",
+          "value": "Juniper, black pepper"
+        },
+        {
+          "name": "Heart notes",
+          "value": "Cedar, incense"
+        },
+        {
+          "name": "Base notes",
+          "value": "Vetiver, smoked wood"
+        },
+        {
+          "name": "Lasts",
+          "value": "6 to 8 hours"
+        },
+        {
+          "name": "Best for",
+          "value": "Office and dinners"
+        }
+      ],
+      "images": [
+        "p-cedar-and-smoke-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "50ml",
+          "option2": "Eau de Toilette",
+          "hex": "#000000",
+          "price": null,
+          "stock": 20
+        },
+        {
+          "option1": "50ml",
+          "option2": "Eau de Parfum",
+          "hex": "#000000",
+          "price": 30000,
+          "stock": 16
+        },
+        {
+          "option1": "100ml",
+          "option2": "Eau de Toilette",
+          "hex": "#000000",
+          "price": 42000,
+          "stock": 10
+        },
+        {
+          "option1": "100ml",
+          "option2": "Eau de Parfum",
+          "hex": "#000000",
+          "price": 52000,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "Ocean Drift",
+      "slug": "ocean-drift",
+      "category": "for-him",
+      "description": "A crisp sea breeze scent with citrus and light musk. Cool, clean and easy for hot weather.",
+      "price": 14000,
+      "original_price": 17500,
+      "style": "Fresh",
+      "featured": false,
+      "flash_deal": true,
+      "rating_start": 4.3,
+      "units_sold": 120,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Top notes",
+          "value": "Lemon, sea salt"
+        },
+        {
+          "name": "Heart notes",
+          "value": "Mint, lavender"
+        },
+        {
+          "name": "Base notes",
+          "value": "Light musk, driftwood"
+        },
+        {
+          "name": "Lasts",
+          "value": "4 to 6 hours"
+        },
+        {
+          "name": "Best for",
+          "value": "Daytime and the gym"
+        }
+      ],
+      "images": [
+        "p-ocean-drift-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "30ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 34
+        },
+        {
+          "option1": "50ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": 22000,
+          "stock": 28
+        },
+        {
+          "option1": "100ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": 36000,
+          "stock": 19
+        }
+      ]
+    },
+    {
+      "name": "Midnight Leather",
+      "slug": "midnight-leather",
+      "category": "for-him",
+      "description": "Soft suede leather with dark spice and a little tobacco. A grown-up scent that suits a suit.",
+      "price": 34000,
+      "original_price": null,
+      "style": "Oriental",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 23,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Top notes",
+          "value": "Saffron, cinnamon"
+        },
+        {
+          "name": "Heart notes",
+          "value": "Suede, tobacco leaf"
+        },
+        {
+          "name": "Base notes",
+          "value": "Amber, benzoin"
+        },
+        {
+          "name": "Lasts",
+          "value": "7 to 9 hours"
+        },
+        {
+          "name": "Best for",
+          "value": "Formal events"
+        }
+      ],
+      "images": [
+        "p-midnight-leather-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "50ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 15
+        },
+        {
+          "option1": "100ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": 62000,
+          "stock": 7
+        }
+      ]
+    },
+    {
+      "name": "Fig Garden",
+      "slug": "fig-garden",
+      "category": "unisex",
+      "description": "Green fig leaf, creamy fig fruit and woods. A calm scent for anyone who dislikes anything too sweet.",
+      "price": 25000,
+      "original_price": null,
+      "style": "Woody",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 52,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Top notes",
+          "value": "Fig leaf, bergamot"
+        },
+        {
+          "name": "Heart notes",
+          "value": "Fig fruit, coconut milk"
+        },
+        {
+          "name": "Base notes",
+          "value": "Cedar, vetiver"
+        },
+        {
+          "name": "Lasts",
+          "value": "5 to 7 hours"
+        },
+        {
+          "name": "Best for",
+          "value": "Daytime and travel"
+        }
+      ],
+      "images": [
+        "p-fig-garden-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "50ml",
+          "option2": "Eau de Toilette",
+          "hex": "#000000",
+          "price": null,
+          "stock": 21
+        },
+        {
+          "option1": "50ml",
+          "option2": "Eau de Parfum",
+          "hex": "#000000",
+          "price": 31000,
+          "stock": 13
+        },
+        {
+          "option1": "100ml",
+          "option2": "Eau de Toilette",
+          "hex": "#000000",
+          "price": 40000,
+          "stock": 10
+        },
+        {
+          "option1": "100ml",
+          "option2": "Eau de Parfum",
+          "hex": "#000000",
+          "price": 50000,
+          "stock": 6
+        }
+      ]
+    },
+    {
+      "name": "Lagos Citrus Rain",
+      "slug": "lagos-citrus-rain",
+      "category": "unisex",
+      "description": "Orange, lime and wet grass, like the first rain after a hot week. Light and happy, for him or her.",
+      "price": 20000,
+      "original_price": null,
+      "style": "Fresh",
+      "featured": true,
+      "flash_deal": false,
+      "rating_start": 4.4,
+      "units_sold": 134,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Top notes",
+          "value": "Orange, lime"
+        },
+        {
+          "name": "Heart notes",
+          "value": "Neroli, green grass"
+        },
+        {
+          "name": "Base notes",
+          "value": "White cedar, musk"
+        },
+        {
+          "name": "Lasts",
+          "value": "4 to 6 hours"
+        },
+        {
+          "name": "Best for",
+          "value": "Daytime and warm weather"
+        }
+      ],
+      "images": [
+        "p-lagos-citrus-rain-1.webp",
+        "p-lagos-citrus-rain-2.webp"
+      ],
+      "variants": [
+        {
+          "option1": "50ml",
+          "option2": "Eau de Toilette",
+          "hex": "#000000",
+          "price": null,
+          "stock": 25
+        },
+        {
+          "option1": "50ml",
+          "option2": "Eau de Parfum",
+          "hex": "#000000",
+          "price": 27000,
+          "stock": 18
+        },
+        {
+          "option1": "100ml",
+          "option2": "Eau de Toilette",
+          "hex": "#000000",
+          "price": 34000,
+          "stock": 12
+        },
+        {
+          "option1": "100ml",
+          "option2": "Eau de Parfum",
+          "hex": "#000000",
+          "price": 44000,
+          "stock": 9
+        }
+      ]
+    },
+    {
+      "name": "Saffron Sands",
+      "slug": "saffron-sands",
+      "category": "unisex",
+      "description": "Saffron and warm amber over soft woods. Rich and golden, and it works on any skin.",
+      "price": 18000,
+      "original_price": 22000,
+      "style": "Oriental",
+      "featured": false,
+      "flash_deal": true,
+      "rating_start": 4.7,
+      "units_sold": 77,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Top notes",
+          "value": "Saffron, mandarin"
+        },
+        {
+          "name": "Heart notes",
+          "value": "Rose, amber"
+        },
+        {
+          "name": "Base notes",
+          "value": "Sandalwood, oud"
+        },
+        {
+          "name": "Lasts",
+          "value": "7 to 9 hours"
+        },
+        {
+          "name": "Best for",
+          "value": "Evenings and gifts"
+        }
+      ],
+      "images": [
+        "p-saffron-sands-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "30ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 23
+        },
+        {
+          "option1": "50ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": 33000,
+          "stock": 17
+        },
+        {
+          "option1": "100ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": 60000,
+          "stock": 8
+        }
+      ]
+    },
+    {
+      "name": "White Musk Oil",
+      "slug": "white-musk-oil",
+      "category": "perfume-oils",
+      "description": "A soft, clean musk oil in a roll-on bottle. Dab it on your wrists and neck. It stays close to the skin.",
+      "price": 7000,
+      "original_price": null,
+      "style": "Fresh",
+      "featured": true,
+      "flash_deal": false,
+      "rating_start": 4.6,
+      "units_sold": 110,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Top notes",
+          "value": "Pear, bergamot"
+        },
+        {
+          "name": "Heart notes",
+          "value": "White musk, lily"
+        },
+        {
+          "name": "Base notes",
+          "value": "Cashmere wood"
+        },
+        {
+          "name": "Lasts",
+          "value": "6 to 8 hours"
+        },
+        {
+          "name": "Best for",
+          "value": "Daily wear"
+        }
+      ],
+      "images": [
+        "p-white-musk-oil-1.webp",
+        "p-white-musk-oil-2.webp"
+      ],
+      "variants": [
+        {
+          "option1": "10ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 40
+        },
+        {
+          "option1": "30ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": 16000,
+          "stock": 4
+        }
+      ]
+    },
+    {
+      "name": "Amber Oud Oil",
+      "slug": "amber-oud-oil",
+      "category": "perfume-oils",
+      "description": "A thick oud and amber oil with no alcohol. A little goes a long way. Many customers layer it under a spray.",
+      "price": 11000,
+      "original_price": 13500,
+      "style": "Oriental",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 64,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Top notes",
+          "value": "Saffron"
+        },
+        {
+          "name": "Heart notes",
+          "value": "Oud, rose"
+        },
+        {
+          "name": "Base notes",
+          "value": "Amber, musk"
+        },
+        {
+          "name": "Lasts",
+          "value": "8 to 10 hours"
+        },
+        {
+          "name": "Best for",
+          "value": "Layering and occasions"
+        }
+      ],
+      "images": [
+        "p-amber-oud-oil-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "10ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 26
+        },
+        {
+          "option1": "30ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": 17500,
+          "stock": 14
+        }
+      ]
+    },
+    {
+      "name": "Sweet Plum Oil",
+      "slug": "sweet-plum-oil",
+      "category": "perfume-oils",
+      "description": "Juicy plum with vanilla in a small roll-on. Sweet but not heavy, and easy to keep in your bag.",
+      "price": 6000,
+      "original_price": null,
+      "style": "Fruity",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 45,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Top notes",
+          "value": "Plum, blackcurrant"
+        },
+        {
+          "name": "Heart notes",
+          "value": "Jasmine"
+        },
+        {
+          "name": "Base notes",
+          "value": "Vanilla, musk"
+        },
+        {
+          "name": "Lasts",
+          "value": "5 to 6 hours"
+        },
+        {
+          "name": "Best for",
+          "value": "Handbag top ups"
+        }
+      ],
+      "images": [
+        "p-sweet-plum-oil-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "10ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 35
+        },
+        {
+          "option1": "30ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": 12500,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "Cotton Dew Mist",
+      "slug": "cotton-dew-mist",
+      "category": "body-mists",
+      "description": "A light body mist that smells of clean cotton and cool water. Spray it after a shower or in the car.",
+      "price": 8000,
+      "original_price": null,
+      "style": "Fresh",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": 4.5,
+      "units_sold": 90,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Top notes",
+          "value": "Water lily, pear"
+        },
+        {
+          "name": "Heart notes",
+          "value": "Cotton flower"
+        },
+        {
+          "name": "Base notes",
+          "value": "Soft musk"
+        },
+        {
+          "name": "Lasts",
+          "value": "2 to 3 hours"
+        },
+        {
+          "name": "Best for",
+          "value": "Daily freshening"
+        }
+      ],
+      "images": [
+        "p-cotton-dew-mist-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "200ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 45
+        }
+      ]
+    },
+    {
+      "name": "Berry Blush Mist",
+      "slug": "berry-blush-mist",
+      "category": "body-mists",
+      "description": "Raspberry and red apple in a 200ml spray. Sweet and playful, and gentle on the nose.",
+      "price": 8500,
+      "original_price": 10500,
+      "style": "Fruity",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 70,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Top notes",
+          "value": "Raspberry, red apple"
+        },
+        {
+          "name": "Heart notes",
+          "value": "Peony"
+        },
+        {
+          "name": "Base notes",
+          "value": "Vanilla"
+        },
+        {
+          "name": "Lasts",
+          "value": "2 to 3 hours"
+        },
+        {
+          "name": "Best for",
+          "value": "Casual days"
+        }
+      ],
+      "images": [
+        "p-berry-blush-mist-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "200ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 38
+        }
+      ]
+    },
+    {
+      "name": "Night Petal Mist",
+      "slug": "night-petal-mist",
+      "category": "body-mists",
+      "description": "Jasmine and tuberose in a soft spray for the evening. Lighter than a perfume, so you can reapply.",
+      "price": 9000,
+      "original_price": null,
+      "style": "Floral",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 30,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Top notes",
+          "value": "Pear blossom"
+        },
+        {
+          "name": "Heart notes",
+          "value": "Jasmine, tuberose"
+        },
+        {
+          "name": "Base notes",
+          "value": "Musk"
+        },
+        {
+          "name": "Lasts",
+          "value": "3 to 4 hours"
+        },
+        {
+          "name": "Best for",
+          "value": "Evenings out"
+        }
+      ],
+      "images": [
+        "p-night-petal-mist-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "200ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 3
+        }
+      ]
+    },
+    {
+      "name": "The Date Night Set",
+      "slug": "the-date-night-set",
+      "category": "gift-sets",
+      "description": "A boxed pair with one 50ml parfum for her and one 50ml parfum for him. Both are warm and spicy and they sit well together.",
+      "price": 65000,
+      "original_price": null,
+      "style": "Oriental",
+      "featured": true,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 38,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "In the box",
+          "value": "50ml Amber Velvet, 50ml Dark Oud Reserve, gift bag"
+        },
+        {
+          "name": "Best for",
+          "value": "Anniversaries and couples"
+        }
+      ],
+      "images": [
+        "p-the-date-night-set-1.webp",
+        "p-the-date-night-set-2.webp"
+      ],
+      "variants": [
+        {
+          "option1": "",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 14
+        }
+      ]
+    },
+    {
+      "name": "The Everyday Trio",
+      "slug": "the-everyday-trio",
+      "category": "gift-sets",
+      "description": "Three fresh scents for daily wear. You get a 30ml spray, a 10ml roll-on oil and a 200ml body mist in one box.",
+      "price": 45000,
+      "original_price": null,
+      "style": "Fresh",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": 4.7,
+      "units_sold": 55,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "In the box",
+          "value": "30ml Jasmine Morning, 10ml White Musk Oil, 200ml Cotton Dew Mist"
+        },
+        {
+          "name": "Best for",
+          "value": "Birthdays and new starters"
+        }
+      ],
+      "images": [
+        "p-the-everyday-trio-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 25
+        }
+      ]
+    },
+    {
+      "name": "The Oil Collection Box",
+      "slug": "the-oil-collection-box",
+      "category": "gift-sets",
+      "description": "Four roll-on oils in a small wooden style box. Wear one a day or mix them to find your own blend.",
+      "price": 52000,
+      "original_price": 58000,
+      "style": "Woody",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 12,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "In the box",
+          "value": "Four 10ml oils: Amber Oud, White Musk, Sweet Plum, Cedar"
+        },
+        {
+          "name": "Best for",
+          "value": "Scent lovers and travel"
+        }
+      ],
+      "images": [
+        "p-the-oil-collection-box-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 18
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "product": "dark-oud-reserve",
+      "name": "Chidi O.",
+      "rating": 5,
+      "title": "Lasts all day",
+      "body": "I put it on at 7am and people were still asking about it at 6pm. The bottle arrived well packed too."
+    },
+    {
+      "product": "dark-oud-reserve",
+      "name": "Emeka N.",
+      "rating": 4,
+      "title": "Strong but not loud",
+      "body": "Very rich smell. Two sprays is enough. I would like a bigger discount on the 100ml."
+    },
+    {
+      "product": "rose-noir-nuit",
+      "name": "Amaka E.",
+      "rating": 5,
+      "title": "My wedding guest scent",
+      "body": "I wore the parfum to two weddings this month and got compliments both times. Smells like real roses."
+    },
+    {
+      "product": "pink-mango-bloom",
+      "name": "Zainab M.",
+      "rating": 5,
+      "title": "So sweet and fresh",
+      "body": "Smells exactly like ripe mango. My sister has already asked me to order one for her."
+    },
+    {
+      "product": "ocean-drift",
+      "name": "Tunde B.",
+      "rating": 4,
+      "title": "Good for Lagos heat",
+      "body": "Clean and cool. It fades after about four hours, so I carry the 30ml in my bag."
+    },
+    {
+      "product": "white-musk-oil",
+      "name": "Funke A.",
+      "rating": 5,
+      "title": "Small but powerful",
+      "body": "I only use one roll on each wrist. It is still on my skin after I come home from work."
+    },
+    {
+      "product": "cotton-dew-mist",
+      "name": "Ngozi U.",
+      "rating": 4,
+      "title": "Nice after bathing",
+      "body": "Light and clean. It does not last long but for the price I am happy."
+    },
+    {
+      "product": "the-everyday-trio",
+      "name": "Halima S.",
+      "rating": 5,
+      "title": "Perfect gift",
+      "body": "Bought it for my mum and she loved the box. The mist is her favourite."
+    },
+    {
+      "product": "cedar-and-smoke",
+      "name": "Ibrahim K.",
+      "rating": 3,
+      "title": "Good, but too smoky for me",
+      "body": "The toilette is nice but a bit too smoky for the office. It was delivered in two days though."
+    },
+    {
+      "product": "lagos-citrus-rain",
+      "name": "Bisi T.",
+      "rating": 5,
+      "title": "Smells like fresh rain",
+      "body": "My husband and I both wear it. Fresh and cheerful, and it did not give me a headache."
+    }
+  ]
+}
