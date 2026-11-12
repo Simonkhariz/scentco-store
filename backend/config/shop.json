@@ -31,7 +31,8 @@
       "100ml",
       "200ml"
     ],
-    "help": ""
+    "help": "",
+    "helpByCategory": {}
   },
   "option2": {
     "label": "Type",
@@ -45,6 +46,7 @@
     "label": "Scent family",
     "plural": "Scent families",
     "short": "Scent",
+    "heading": "{value} scents",
     "browseTitle": "BROWSE BY SCENT FAMILY",
     "values": [
       "Woody",
