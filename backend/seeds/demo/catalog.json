@@ -94,37 +94,37 @@
       "name": "For Her",
       "slug": "for-her",
       "description": "Florals, fruits and warm ambers made for women.",
-      "image": "cat-for-her.webp"
+      "image": "https://images.unsplash.com/photo-1650202313604-55fa13e296c1?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mjd8fGZsb3dlcnMlMjBwZXRhbHMlMjBmcmFncmFuY2V8ZW58MXwyfHx8MTc5NDQ1NTgyNXww&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "name": "For Him",
       "slug": "for-him",
       "description": "Woods, leather and fresh scents for men.",
-      "image": "cat-for-him.webp"
+      "image": "https://images.unsplash.com/photo-1784822041170-a4268e371062?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8N3x8bWVuJTIwcGVyZnVtZXxlbnwxfDJ8fHwxNzk0NDkxMjc5fDA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "name": "Unisex",
       "slug": "unisex",
       "description": "Scents anyone can wear, whatever the mood.",
-      "image": "cat-unisex.webp"
+      "image": "https://images.unsplash.com/photo-1615634260167-c8cdede054de?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8N3x8cGVyZnVtZSUyMGJvdHRsZXxlbnwxfHx8fDE3OTQ0NTU2OTZ8MA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "name": "Perfume Oils",
       "slug": "perfume-oils",
       "description": "Small roll-on bottles that sit close to the skin and last.",
-      "image": "cat-perfume-oils.webp"
+      "image": "https://images.unsplash.com/photo-1560521166-4d849c52b457?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTd8fHBlcmZ1bWUlMjBvaWwlMjByb2xsJTIwb24lMjBib3R0bGV8ZW58MXx8fHwxNzk0NDU1NzY0fDA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "name": "Body Mists",
       "slug": "body-mists",
       "description": "Light 200ml sprays for every day and after the gym.",
-      "image": "cat-body-mists.webp"
+      "image": "https://images.unsplash.com/photo-1784902538196-c7d914e3ecce?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8M3x8Ym9keSUyMG1pc3QlMjBzcHJheSUyMGJvdHRsZXxlbnwxfHx8fDE3OTQ0NTU3ODF8MA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "name": "Gift Sets",
       "slug": "gift-sets",
       "description": "Boxed sets that are ready to give, no wrapping needed.",
-      "image": "cat-gift-sets.webp"
+      "image": "https://images.unsplash.com/photo-1713999416784-c7b7da683642?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTR8fHBlcmZ1bWUlMjBnaWZ0JTIwc2V0JTIwYm94fGVufDF8fHx8MTc5NDQ1NTc4N3ww&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     }
   ],
   "banners": [
@@ -133,21 +133,21 @@
       "subtitle": "Perfumes for her, for him and for everyone. Message us on WhatsApp if you would like help choosing.",
       "cta_text": "Shop now",
       "cta_url": "/category?cat=for-her",
-      "image": "banner-1.webp"
+      "image": "https://images.unsplash.com/photo-1718466044521-d38654f3ba0a?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mnx8cGVyZnVtZSUyMGJvdHRsZXN8ZW58MXwwfHx8MTc5NDQ1NTgwOHww&ixlib=rb-4.1.0&w=1600&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "title": "OILS THAT LAST ALL DAY",
       "subtitle": "Roll-on perfume oils from ₦6,000. Small bottle, big staying power.",
       "cta_text": "See the oils",
       "cta_url": "/category?cat=perfume-oils",
-      "image": "banner-2.webp"
+      "image": "https://images.unsplash.com/photo-1662385809583-4101cd8dc34e?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MzB8fHBlcmZ1bWUlMjBib3R0bGVzfGVufDF8MHx8fDE3OTQ0NTU4MDh8MA&ixlib=rb-4.1.0&w=1600&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "title": "GIFT SETS READY TO GIVE",
       "subtitle": "Boxed sets for birthdays and anniversaries. Use GIFTBOX15 on orders from ₦40,000.",
       "cta_text": "Shop gift sets",
       "cta_url": "/category?cat=gift-sets",
-      "image": "banner-3.webp"
+      "image": "https://images.unsplash.com/photo-1681183183825-cf959ebdc3c2?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjR8fHBlcmZ1bWUlMjBnaWZ0JTIwc2V0JTIwYm94fGVufDF8fHx8MTc5NDQ1NTc4N3ww&ixlib=rb-4.1.0&w=1600&h=900&fit=crop&crop=center&q=80&fm=jpg"
     }
   ],
   "products": [
@@ -188,8 +188,8 @@
         }
       ],
       "images": [
-        "p-rose-noir-nuit-1.webp",
-        "p-rose-noir-nuit-2.webp"
+        "https://images.unsplash.com/photo-1595425959632-34f2822322ce?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTJ8fHBlcmZ1bWUlMjBib3R0bGV8ZW58MXx8fHwxNzk0NDU1Njk2fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1767853419760-8b35ce7bdbb8?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTd8fGZsb3dlcnMlMjBwZXRhbHMlMjBmcmFncmFuY2V8ZW58MXwyfHx8MTc5NDQ1NTgyNXww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -259,7 +259,7 @@
         }
       ],
       "images": [
-        "p-jasmine-morning-1.webp"
+        "https://images.unsplash.com/photo-1615108395437-df128ad79e80?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjB8fHBlcmZ1bWUlMjBib3R0bGV8ZW58MXx8fHwxNzk0NDU1Njk2fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -322,8 +322,8 @@
         }
       ],
       "images": [
-        "p-pink-mango-bloom-1.webp",
-        "p-pink-mango-bloom-2.webp"
+        "https://images.unsplash.com/photo-1613521140785-e85e427f8002?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjN8fHBlcmZ1bWUlMjBib3R0bGV8ZW58MXx8fHwxNzk0NDU1Njk2fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1542282753894-ecd583312137?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8OXx8Y2l0cnVzJTIwZnJ1aXQlMjBzbGljZXN8ZW58MXwyfHx8MTc5NDQ1NTg2Nnww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -379,7 +379,7 @@
         }
       ],
       "images": [
-        "p-amber-velvet-1.webp"
+        "https://images.unsplash.com/photo-1638295916768-459f6cf440bc?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8NXx8Z2xhc3MlMjBwZXJmdW1lJTIwYm90dGxlJTIwbWluaW1hbHxlbnwxfHx8fDE3OTQ0NTU3NDZ8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -442,8 +442,8 @@
         }
       ],
       "images": [
-        "p-dark-oud-reserve-1.webp",
-        "p-dark-oud-reserve-2.webp"
+        "https://images.unsplash.com/photo-1647507653704-bde7f2d6dbf0?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjJ8fGdsYXNzJTIwcGVyZnVtZSUyMGJvdHRsZSUyMG1pbmltYWx8ZW58MXx8fHwxNzk0NDU1NzQ2fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1643797517714-a273548abc3c?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjZ8fGdsYXNzJTIwcGVyZnVtZSUyMGJvdHRsZSUyMG1pbmltYWx8ZW58MXx8fHwxNzk0NDU1NzQ2fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -499,7 +499,7 @@
         }
       ],
       "images": [
-        "p-cedar-and-smoke-1.webp"
+        "https://images.unsplash.com/photo-1564644411594-c9a40e2aa4da?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTR8fGdsYXNzJTIwcGVyZnVtZSUyMGJvdHRsZXxlbnwxfHx8fDE3OTQ1MjYzMzR8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -569,7 +569,7 @@
         }
       ],
       "images": [
-        "p-ocean-drift-1.webp"
+        "https://images.unsplash.com/photo-1615160460366-2c9a41771b51?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTh8fHBlcmZ1bWUlMjBib3R0bGV8ZW58MXx8fHwxNzk0NDU1Njk2fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -632,7 +632,7 @@
         }
       ],
       "images": [
-        "p-midnight-leather-1.webp"
+        "https://images.unsplash.com/photo-1703681036028-b4dbb8811230?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8OHx8YmxhY2slMjBwZXJmdW1lJTIwYm90dGxlfGVufDF8Mnx8fDE3OTQ1MTc4NzJ8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -688,7 +688,7 @@
         }
       ],
       "images": [
-        "p-fig-garden-1.webp"
+        "https://images.unsplash.com/photo-1723400123074-903abb1520ee?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mjd8fGdsYXNzJTIwcGVyZnVtZSUyMGJvdHRsZSUyMG1pbmltYWx8ZW58MXx8fHwxNzk0NDU1NzQ2fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -758,8 +758,8 @@
         }
       ],
       "images": [
-        "p-lagos-citrus-rain-1.webp",
-        "p-lagos-citrus-rain-2.webp"
+        "https://images.unsplash.com/photo-1733660227168-444e3c751a1e?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjR8fHBlcmZ1bWUlMjBib3R0bGV8ZW58MXx8fHwxNzk0NDU1Njk2fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1766186629597-63610f553f32?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MXx8Y2l0cnVzJTIwZnJ1aXQlMjBzbGljZXN8ZW58MXwyfHx8MTc5NDQ1NTg2Nnww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -829,7 +829,7 @@
         }
       ],
       "images": [
-        "p-saffron-sands-1.webp"
+        "https://images.unsplash.com/photo-1733660227163-01bc46e0d7d7?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Nnx8Z2xhc3MlMjBwZXJmdW1lJTIwYm90dGxlJTIwbWluaW1hbHxlbnwxfHx8fDE3OTQ0NTU3NDZ8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -892,8 +892,8 @@
         }
       ],
       "images": [
-        "p-white-musk-oil-1.webp",
-        "p-white-musk-oil-2.webp"
+        "https://images.unsplash.com/photo-1571206508927-2ef3026ada5d?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mnx8cGVyZnVtZSUyMG9pbCUyMHJvbGwlMjBvbiUyMGJvdHRsZXxlbnwxfHx8fDE3OTQ0NTU3NjR8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1654524438549-10892fe4aec4?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8NHx8cGVyZnVtZSUyMG9pbCUyMHJvbGwlMjBvbiUyMGJvdHRsZXxlbnwxfHx8fDE3OTQ0NTU3NjR8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -949,7 +949,7 @@
         }
       ],
       "images": [
-        "p-amber-oud-oil-1.webp"
+        "https://images.unsplash.com/photo-1707539159818-191549055b46?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTN8fHBlcmZ1bWUlMjBvaWwlMjByb2xsJTIwb24lMjBib3R0bGV8ZW58MXx8fHwxNzk0NDU1NzY0fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -1005,7 +1005,7 @@
         }
       ],
       "images": [
-        "p-sweet-plum-oil-1.webp"
+        "https://images.unsplash.com/photo-1560521166-167baa83205f?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTV8fHBlcmZ1bWUlMjBvaWwlMjByb2xsJTIwb24lMjBib3R0bGV8ZW58MXx8fHwxNzk0NDU1NzY0fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -1061,7 +1061,7 @@
         }
       ],
       "images": [
-        "p-cotton-dew-mist-1.webp"
+        "https://images.unsplash.com/photo-1682251008222-412b140cbf4f?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjR8fGdsYXNzJTIwcGVyZnVtZSUyMGJvdHRsZSUyMG1pbmltYWx8ZW58MXx8fHwxNzk0NDU1NzQ2fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -1110,7 +1110,7 @@
         }
       ],
       "images": [
-        "p-berry-blush-mist-1.webp"
+        "https://images.unsplash.com/photo-1720423738890-37689a6f6b95?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTV8fGdsYXNzJTIwcGVyZnVtZSUyMGJvdHRsZSUyMG1pbmltYWx8ZW58MXx8fHwxNzk0NDU1NzQ2fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -1159,7 +1159,7 @@
         }
       ],
       "images": [
-        "p-night-petal-mist-1.webp"
+        "https://images.unsplash.com/photo-1784902008628-64c816f9f39a?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8NHx8Ym9keSUyMG1pc3QlMjBzcHJheSUyMGJvdHRsZXxlbnwxfHx8fDE3OTQ0NTU3ODF8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -1196,8 +1196,8 @@
         }
       ],
       "images": [
-        "p-the-date-night-set-1.webp",
-        "p-the-date-night-set-2.webp"
+        "https://images.unsplash.com/photo-1783331256641-c147508169b0?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTF8fHBlcmZ1bWUlMjBnaWZ0JTIwc2V0JTIwYm94fGVufDF8fHx8MTc5NDQ1NTc4N3ww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1654524439101-d884c08d81c6?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTd8fHBlcmZ1bWUlMjBnaWZ0JTIwc2V0JTIwYm94fGVufDF8fHx8MTc5NDQ1NTc4N3ww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -1234,7 +1234,7 @@
         }
       ],
       "images": [
-        "p-the-everyday-trio-1.webp"
+        "https://images.unsplash.com/photo-1672848700906-2b8ca62639e4?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjF8fHBlcmZ1bWUlMjBib3R0bGV8ZW58MXx8fHwxNzk0NDU1Njk2fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -1271,7 +1271,7 @@
         }
       ],
       "images": [
-        "p-the-oil-collection-box-1.webp"
+        "https://images.unsplash.com/photo-1653049368644-30505a069a55?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjZ8fHBlcmZ1bWUlMjBnaWZ0JTIwc2V0JTIwYm94fGVufDF8fHx8MTc5NDQ1NTc4N3ww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {

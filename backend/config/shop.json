@@ -9,7 +9,7 @@
     "title": "FIND THE SCENT THAT FEELS LIKE YOU",
     "subtitle": "Perfumes, perfume oils and body mists for every mood and every budget. Choose by scent family and have it delivered to your door.",
     "cta": "Shop Now",
-    "image": "/images/hero/hero.webp",
+    "image": "https://images.unsplash.com/photo-1767771357444-92072accdcd6?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mjl8fHBlcmZ1bWUlMjBib3R0bGVzfGVufDF8MHx8fDE3OTQ0NTU4MDh8MA&ixlib=rb-4.1.0&w=1600&h=900&fit=crop&crop=entropy&q=80&fm=jpg",
     "cutout": false
   },
   "theme": {
@@ -56,11 +56,11 @@
       "Fruity"
     ],
     "images": {
-      "woody": "/images/styles/woody.webp",
-      "floral": "/images/styles/floral.webp",
-      "fresh": "/images/styles/fresh.webp",
-      "oriental": "/images/styles/oriental.webp",
-      "fruity": "/images/styles/fruity.webp"
+      "woody": "https://images.unsplash.com/photo-1636396279546-2294149dc46e?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MXx8c2FuZGFsd29vZCUyMGluY2Vuc2UlMjBzcGljZXN8ZW58MXwyfHx8MTc5NDQ1NTg0OHww&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg",
+      "floral": "https://images.unsplash.com/photo-1511201173873-c327e63eb6c4?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MXx8Zmxvd2VycyUyMHBldGFscyUyMGZyYWdyYW5jZXxlbnwxfDJ8fHwxNzk0NDU1ODI1fDA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg",
+      "fresh": "https://images.unsplash.com/photo-1792929120681-eeb7309ce620?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8NHx8Y2l0cnVzJTIwZnJ1aXQlMjBzbGljZXN8ZW58MXwyfHx8MTc5NDQ1NTg2Nnww&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg",
+      "oriental": "https://images.unsplash.com/photo-1636396279298-021f7ec515e3?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8OXx8c2FuZGFsd29vZCUyMGluY2Vuc2UlMjBzcGljZXN8ZW58MXwyfHx8MTc5NDQ1NTg0OHww&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg",
+      "fruity": "https://images.unsplash.com/photo-1484980859177-5ac1249fda6f?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTF8fGNpdHJ1cyUyMGZydWl0JTIwc2xpY2VzfGVufDF8Mnx8fDE3OTQ0NTU4NjZ8MA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     }
   },
   "specs": {
